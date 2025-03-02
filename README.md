@@ -53,12 +53,12 @@ This assignment should prove that a student is able to:
   - [x] Use `npm run test-nature` to run nature.html file tests
   - [x] Use `npm run test-plants` to run plants.html file tests
   - [x] Use `npm run test-space` to run space.html file tests
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+  - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
